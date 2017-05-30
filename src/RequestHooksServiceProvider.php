@@ -4,7 +4,7 @@ namespace Incraigulous\RequestHooks;
 
 use Illuminate\Support\ServiceProvider;
 
-class RequestHooksProvider extends ServiceProvider
+class RequestHooksServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.
