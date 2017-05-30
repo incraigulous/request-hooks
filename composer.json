@@ -1,0 +1,20 @@
+{
+  "name": "incraigulous/request-hooks",
+  "description": "Modify application state for feature testing by using query parameters.",
+  "type": "library",
+  "require-dev": {
+    "illuminate/support": "^5.4"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Incraigulous\\RequestHooks\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "incraigulous",
+      "email": "me@craigwann.com"
+    }
+  ]
+}
