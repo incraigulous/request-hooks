@@ -1,6 +1,6 @@
 <?php
 
-namespace Incraigulous\Http\Middleware;
+namespace Incraigulous\RequestHooks;
 
 use Closure;
 
