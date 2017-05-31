@@ -52,7 +52,6 @@ class Login implements RequestHook
 ```
 
 **Register your hook**<br />
-
 in config/requestHooks.php:
 ```
 return [
