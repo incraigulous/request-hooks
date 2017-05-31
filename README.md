@@ -1,7 +1,7 @@
 request-hooks
 -------------
 
-Modify Laravel application state for feature testing by using query parameters.
+Modify Laravel application state for browser testing by using query parameters.
 
 ## How it works
 
