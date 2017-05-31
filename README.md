@@ -3,7 +3,7 @@ request-hooks
 
 Modify Laravel application state for feature testing by using query parameters.
 
-##How it works
+## How it works
 
 **Create a hook**<br />
 Here's an example hook class that logs in a user if the test_login query string is set. That means if your feature testing, anytime you call a url like yourapp.dev/dashboard?test_login=true, the user will be logged in before the request is handled.
